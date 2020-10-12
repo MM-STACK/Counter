@@ -1,0 +1,8 @@
+.Button-Bar {
+    display: flex;
+    flex-direction: row;    
+}
+
+.Button-Bar div {
+    margin-left: 20px;
+}
