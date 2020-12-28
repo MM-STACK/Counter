@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ClickCounter Equipment="Stepper" />
-        <HoverCounter Equipment="Bicycle"/>
+        <ClickCounter Equipment="Clicker" />
+        <HoverCounter Equipment="Drone"/>
       </header>
     </div>
   );

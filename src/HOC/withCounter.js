@@ -19,8 +19,6 @@ const withCounter = (WrappedComponent, IncrementNumber ) => {
 
      
         render() {
-
-
             return <WrappedComponent  
                 x={this.state.x}
                 Increment={this.Increment}
